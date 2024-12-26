@@ -1,0 +1,14 @@
+# missi-user 15 AP3A.240905.015.A2 OS2.0.2.0.VMFMIXM release-keys
+- manufacturer: xiaomi
+- platform: common
+- codename: aristotle
+- flavor: missi-user
+- release: 15
+- id: AP3A.240905.015.A2
+- incremental: OS2.0.2.0.VMFMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/aristotle_global/aristotle:12/SP1A.210812.016/OS2.0.2.0.VMFMIXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi-user-15-AP3A.240905.015.A2-OS2.0.2.0.VMFMIXM-release-keys
+- repo: xiaomi_aristotle_dump
